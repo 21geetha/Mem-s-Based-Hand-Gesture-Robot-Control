@@ -47,7 +47,3 @@ By eliminating manual effort and introducing IoT-based automation, this project 
 | Hand Up          | Pick object             |
 | Hand Down        | Place object            |
 
-> You can customize these actions in the Arduino code according to your robotic arm's DOF (Degrees of Freedom).
-
-## 📐 System Block Diagram
-
